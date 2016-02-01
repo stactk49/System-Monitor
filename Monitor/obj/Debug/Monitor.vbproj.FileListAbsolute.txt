@@ -1,0 +1,30 @@
+C:\Users\stactk49\Desktop\Monitor\Debug\Monitor.exe
+C:\Users\stactk49\Desktop\Monitor\Debug\Monitor.pdb
+C:\Users\stactk49\Desktop\Monitor\Monitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stactk49\Desktop\Monitor\Monitor\obj\Debug\Monitor.exe
+C:\Users\stactk49\Desktop\Monitor\Monitor\obj\Debug\Monitor.pdb
+C:\Documents and Settings\al9ayaad\Desktop\Monitor\Monitor\obj\Debug\Monitor.exe
+C:\Documents and Settings\al9ayaad\Desktop\Monitor\Monitor\obj\Debug\Monitor.pdb
+C:\Documents and Settings\al9ayaad\Desktop\Monitor\Debug\Monitor.exe
+C:\Documents and Settings\al9ayaad\Desktop\Monitor\Debug\Monitor.pdb
+C:\Documents and Settings\al9ayaad\Desktop\Monitor\Monitor\obj\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\Home\University\CIS490\Monitor\Monitor\obj\Debug\Monitor.exe
+\\VBOXSVR\Home\University\CIS490\Monitor\Monitor\obj\Debug\Monitor.pdb
+\\VBOXSVR\Home\University\CIS490\Monitor\Debug\Monitor.exe
+\\VBOXSVR\Home\University\CIS490\Monitor\Debug\Monitor.pdb
+\\VBOXSVR\Home\University\CIS490\Monitor\Monitor\obj\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\Home\University\CIS490\Monitor\Monitor\obj\Debug\Monitor.frmMain.resources
+\\VBOXSVR\Home\University\CIS490\Monitor\Monitor\obj\Debug\GenerateResource.read.1.tlog
+\\VBOXSVR\Home\University\CIS490\Monitor\Monitor\obj\Debug\GenerateResource.write.1.tlog
+G:\Monitor\Monitor\obj\Debug\Monitor.exe
+G:\Monitor\Monitor\obj\Debug\Monitor.pdb
+G:\Monitor\Debug\Monitor.exe
+G:\Monitor\Debug\Monitor.pdb
+G:\Monitor\Monitor\obj\Debug\Monitor.frmMain.resources
+G:\Monitor\Monitor\obj\Debug\Monitor.vbproj.GenerateResource.Cache
+E:\Monitor\Monitor\obj\Debug\Monitor.exe
+E:\Monitor\Monitor\obj\Debug\Monitor.pdb
+E:\Monitor\Debug\Monitor.exe
+E:\Monitor\Debug\Monitor.pdb
+E:\Monitor\Monitor\obj\Debug\Monitor.frmMain.resources
+E:\Monitor\Monitor\obj\Debug\Monitor.vbproj.GenerateResource.Cache
